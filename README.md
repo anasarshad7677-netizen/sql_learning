@@ -8,3 +8,5 @@ group_aggreagte.sql : this file have the basic of GROUPBY and AGGREGATE operator
 alter_truncate.sql : this file contains the basics of alter and delete drop queries
 
 TRANSACATIONS.sql : contains rollback and commit transcations 
+
+Student management system : contains the add insert and update students and management system

@@ -11,4 +11,3 @@ TRANSACATIONS.sql : contains rollback and commit transcations
 
 Student management system : contains the add insert and update students and management system
 # starting a new project in sql updating soon
-commit

@@ -1,4 +1,4 @@
-# sql_learning
+# sql_learning repo
 My SQL learning journey, practice queries, exercises, and projects.
 
 create_insert.sql : this file have basics of insert and create queries.

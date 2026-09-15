@@ -15,3 +15,4 @@ SELECT AVG(age) from user;
 SELECT COUNT(followers) 
 FROM user
 WHERE age >= 20 ;
+select * from user
